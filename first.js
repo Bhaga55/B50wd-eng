@@ -1,3 +1,4 @@
+console.log("hello world")
 function countvowels(str){
 var count=0
 for(var i=0;i<str.lenght;i++){
